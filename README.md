@@ -2,7 +2,7 @@
 
 An interactive miniature Vienna scene built with React, TypeScript, and Three.js.
 
-Live demo: [vienna-3-d-scene-jqx2oyqs3-strike-e.vercel.app](https://vienna-3-d-scene-jqx2oyqs3-strike-e.vercel.app/)
+Live demo: [https://vienna-3-d-scene.vercel.app/](https://vienna-3-d-scene.vercel.app/)
 
 ## What is included
 
@@ -16,13 +16,10 @@ Live demo: [vienna-3-d-scene-jqx2oyqs3-strike-e.vercel.app](https://vienna-3-d-s
 
 ## Tech stack
 
-- React 19
-- TypeScript
-- Three.js
-- Vite
-- ESLint
-
-The scene uses Three.js directly. It does not use React Three Fiber, Drei, Tailwind, or external 3D model assets.
+ React js
+ TypeScript
+ Three.js
+Vite
 
 ## Project structure
 
@@ -69,6 +66,4 @@ npm run lint     # Run ESLint
 npm run preview  # Preview the production build locally
 ```
 
-## Notes
 
-The scene is intentionally built from lightweight procedural geometry so landmark positions, materials, and interactions are easy to adjust in code.
