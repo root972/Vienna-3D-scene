@@ -2,9 +2,10 @@
 
 An interactive miniature Vienna scene built with React, TypeScript, and Three.js.
 
-Live demo: [https://vienna-3-d-scene.vercel.app/](https://vienna-3-d-scene.vercel.app/)
+Live demo: [https://vienna-3-d-scene.vercel.app/]
+(https://vienna-3-d-scene.vercel.app/)
 
-## What is included
+# What is included
 
 - Stylized models of Stephansdom, the Austrian Parliament, and the Prater Giant Ferris Wheel
 - OrbitControls for exploring the scene
